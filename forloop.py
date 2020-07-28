@@ -1,5 +1,8 @@
-def forloop():
-    for i in range(10):
-        print("Hello World")
+#for loop statement
 
-forloop()
+a="u r my honeybunch"
+for i in range(a)
+   print(i)
+
+for i in range(len(a))
+   print(i)
